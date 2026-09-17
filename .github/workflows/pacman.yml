@@ -2,10 +2,10 @@ name: Generate Pac-Man
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # twice a day
+    - cron: "0 */3 * * *" # every 3 hours
   workflow_dispatch: {} # run manually from the Actions tab
   push:
-    branches: [main, master]
+    branches: [main, master] # also refresh on every push
 
 permissions:
   contents: write

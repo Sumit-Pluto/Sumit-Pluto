@@ -66,8 +66,12 @@ after that.
 | Pac-Man graph (via Action) | |
 
 ## Notes
-- **Stats cards** now use `github-profile-summary-cards` (reliable) instead of the frequently
-  rate-limited `github-readme-stats`.
+- **Stats** now come from `lowlighter/metrics` — a committed `metrics.svg` that can't rate-limit.
+- **How fresh are the numbers?** `metrics.svg` refreshes **hourly** and the Pac-Man graph every
+  **3 hours** (Actions on a public repo = free). The render-time cards (streak, profile views)
+  auto-update on GitHub's image-cache cycle (a few hours), so a count like contributions can lag
+  briefly before catching up. Also, different tools count "contributions" slightly differently,
+  so they won't always match GitHub's headline number exactly.
 - **A skill icon missing?** `skillicons.dev` just skips unknown keys — no broken image.
 
 Your **portfolio repo** README also shows this same Pac-Man graph (it points at this repo's

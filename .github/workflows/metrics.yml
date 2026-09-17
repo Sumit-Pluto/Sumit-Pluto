@@ -2,7 +2,7 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # twice a day
+    - cron: "0 * * * *" # hourly — keeps stars/commits/contributions fresh
   workflow_dispatch: {} # run manually from the Actions tab
   # NOTE: no `push` trigger on purpose — this Action commits metrics.svg back to
   # the repo, and a push trigger would make it loop.
