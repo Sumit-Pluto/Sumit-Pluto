@@ -1,17 +1,17 @@
 <!-- ══════════════════════ HERO ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Quant&descAlignY=60&descSize=15" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Backend%20Systems&descAlignY=60&descSize=15" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/Sumit-Pluto">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFE500&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+Building+agentic+AI+systems;%E2%9A%A1+Shipping+models+to+production+(K8s+%2B+CI%2FCD+%2B+Kafka);%F0%9F%A7%A0+RAG+%C2%B7+LLMs+%C2%B7+Fine-tuning+%C2%B7+MLOps;%F0%9F%8F%86+Competitive+programmer+(CF+1339+%C2%B7+CC+2%E2%98%85)" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFE500&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+Building+agentic+AI+systems;%E2%9A%A1+Shipping+models+to+production+(K8s+%2B+CI%2FCD+%2B+Kafka);%F0%9F%A7%A0+RAG+%C2%B7+LLMs+%C2%B7+Fine-tuning+%C2%B7+MLOps;%F0%9F%9B%A0%EF%B8%8F+Scalable+backend+%26+distributed+systems" alt="typing" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sumit-Pluto&label=PROFILE+VIEWS&color=FFE500&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/Sumit-Pluto?label=FOLLOWERS&style=for-the-badge&labelColor=0d1117&color=FFE500)](https://github.com/Sumit-Pluto?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Sumit-Pluto?label=STARS&style=for-the-badge&labelColor=0d1117&color=FFE500)](https://github.com/Sumit-Pluto)
+<img src="https://komarev.com/ghpvc/?username=Sumit-Pluto&label=PROFILE+VIEWS&color=1a1b27&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Sumit-Pluto?label=FOLLOWERS&style=for-the-badge&labelColor=FFE500&color=1a1b27" alt="followers" />
+<img src="https://img.shields.io/github/stars/Sumit-Pluto?label=STARS&style=for-the-badge&labelColor=FFE500&color=1a1b27" alt="stars" />
 
 </div>
 
@@ -26,25 +26,32 @@
 class SumitDhankhar:
     role      = "AI / ML Engineer @ Insignia"
     graduated = "B.Tech AI & ML, May 2026"
-    focus     = ["Agentic AI", "RAG", "MLOps", "Quant"]
+    focus     = ["Agentic AI", "RAG", "MLOps", "Backend Systems"]
     ships     = "models -> Kubernetes + CI/CD + Kafka"
     papers    = 2          # Springer
-    cp        = {"codeforces": 1339, "codechef": "2*"}
     motto     = "clean model, clean system."
 ```
 
-- 🦾 I build **LLM / agentic / quant** systems and take them **end-to-end into production**.
-- 🧠 As comfortable with a look-ahead-safe backtest as with an **idempotent Postgres ledger**.
-- 📄 **2× Springer** publications · 🏅 **Codeforces 1339** · **CodeChef 2★** · 500+ DSA.
-- ⚡ Currently deep in **agentic trading systems** and **production LLM serving**.
-- 🤝 Open to AI/ML, MLOps and full-stack roles — let's talk.
+<br/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-1a1b27?style=flat-square&labelColor=FFE500" />
+<img src="https://img.shields.io/badge/RAG-1a1b27?style=flat-square&labelColor=FFE500" />
+<img src="https://img.shields.io/badge/MLOps-1a1b27?style=flat-square&labelColor=FFE500" />
+<img src="https://img.shields.io/badge/Backend_Systems-1a1b27?style=flat-square&labelColor=FFE500" />
+<img src="https://img.shields.io/badge/LLMs-1a1b27?style=flat-square&labelColor=FFE500" />
+
+<br/><br/>
+
+&nbsp;`Now`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Production LLM serving · agentic trading systems<br/>
+&nbsp;`Stack`&nbsp;&nbsp;&nbsp;&nbsp;LLMs · RAG · MLOps · distributed backends<br/>
+&nbsp;`Wins`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2× Springer papers · Codeforces 1339 · CodeChef 2★<br/>
+&nbsp;`Open`&nbsp;&nbsp;&nbsp;&nbsp;AI/ML · MLOps · Full-stack roles<br/>
+&nbsp;`Mail`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sumitx368@gmail.com
 
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="assets/hero.gif" width="100%" alt="coding" />
-
-<sub><i>↑ swap <code>assets/hero.gif</code> with your own GIF</i></sub>
+<img src="assets/hero.gif" width="100%" alt="anime" />
 
 </td>
 </tr>
@@ -78,39 +85,25 @@ class SumitDhankhar:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sumit-Pluto&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FFE500&icon_color=FFE500&text_color=c9d1d9" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Pluto&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FFE500&text_color=c9d1d9" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumit-Pluto&theme=github_dark" alt="profile summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumit-Pluto&theme=github_dark" alt="top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumit-Pluto&theme=github_dark" alt="most commit language" />
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=Sumit-Pluto&hide_border=true&background=0d1117&stroke=FFE500&ring=FFE500&fire=FF2D2D&currStreakLabel=FFE500&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b93" />
-
-<br/><br/>
-
-<b>🟩 Contribution Heatmap</b><br/><br/>
-<img width="95%" src="https://ghchart.rshah.org/Sumit-Pluto" alt="github contribution heatmap" />
+<img width="58%" src="https://streak-stats.demolab.com/?user=Sumit-Pluto&hide_border=true&background=0d1117&stroke=FFE500&ring=FFE500&fire=FF2D2D&currStreakLabel=FFE500&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b93" alt="streak" />
 
 </div>
 
-<!-- ══════════════════════ COMPETITIVE PROGRAMMING ══════════════════════ -->
-## 🏆 Competitive Programming
+<!-- ══════════════════════ PAC-MAN CONTRIBUTION GRAPH ══════════════════════ -->
+## 🕹️ Watch Pac-Man roam my contributions
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1339%20Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sumit_369)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2%E2%98%85%201587-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sumit_3_6_9)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sumit_369/)
+<img width="100%" src="https://raw.githubusercontent.com/Sumit-Pluto/Sumit-Pluto/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 
-</div>
-
-<!-- ══════════════════════ CONTRIBUTION SNAKE ══════════════════════ -->
-## 🐍 Watch the snake eat my contributions
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Sumit-Pluto/Sumit-Pluto/output/github-snake-dark.svg" alt="contribution snake" />
-
-<sub><i>Auto-generated by a GitHub Action. Appears after the workflow's first run — Actions → <b>Generate Snake</b> → Run workflow. (Prefer the Pac-Man sprite? See <code>SETUP.md</code>.)</i></sub>
+<sub><i>Auto-generated by a GitHub Action — appears after the first run (Actions → <b>Generate Pac-Man</b> → Run workflow).</i></sub>
 
 </div>
 
