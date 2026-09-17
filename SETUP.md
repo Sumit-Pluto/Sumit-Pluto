@@ -9,6 +9,7 @@ graph**.
 README.md                     ← your profile page
 assets/hero.gif               ← your GIF (already cropped + compressed)
 .github/workflows/pacman.yml  ← generates the Pac-Man contribution graph
+.github/workflows/metrics.yml ← generates metrics.svg (reliable stats — no rate limits)
 ```
 
 ## 1. Create / use the special repo
@@ -37,6 +38,17 @@ The Pac-Man image is **blank until the Action runs once**:
 > README `src`. `abozanona/pacman-contribution-graph` is a community action — if it ever
 > misbehaves, the bullet-proof fallback is the snake: swap the workflow to `Platane/snk` and
 > point the image at `github-snake-dark.svg` (ask me and I'll switch it in one step).
+
+## 3b. Turn on the stats (metrics)
+Same drill: **Actions → "Generate Metrics" → Run workflow** once. It commits `metrics.svg`
+into the repo — a **static file that never rate-limits** — which the README points at. This
+replaces the stat cards that were throwing "temporarily rate limited". Runs on a schedule
+after that.
+
+> Seeing broken images in **Brave** but fine in another browser? Brave Shields / ad-blockers
+> block third-party image services (shields.io, komarev, skillicons). Your profile renders
+> fine for everyone else, and the self-committed `metrics.svg` + Pac-Man SVGs aren't affected
+> (they're GitHub-hosted).
 
 ## 4. Make it yours
 - **GIF:** replace `assets/hero.gif` anytime (keep it < ~5 MB so GitHub autoplays it — if you

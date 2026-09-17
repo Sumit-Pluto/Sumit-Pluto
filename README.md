@@ -34,19 +34,17 @@ class SumitDhankhar:
 
 <br/>
 
-<img src="https://img.shields.io/badge/Agentic_AI-1a1b27?style=flat-square&labelColor=FFE500" />
-<img src="https://img.shields.io/badge/RAG-1a1b27?style=flat-square&labelColor=FFE500" />
-<img src="https://img.shields.io/badge/MLOps-1a1b27?style=flat-square&labelColor=FFE500" />
-<img src="https://img.shields.io/badge/Backend_Systems-1a1b27?style=flat-square&labelColor=FFE500" />
-<img src="https://img.shields.io/badge/LLMs-1a1b27?style=flat-square&labelColor=FFE500" />
+<img src="https://img.shields.io/badge/Agentic%20AI-1a1b27?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-1a1b27?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLOps-1a1b27?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend%20Systems-1a1b27?style=for-the-badge" />
 
 <br/><br/>
 
-&nbsp;`Now`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Production LLM serving · agentic trading systems<br/>
-&nbsp;`Stack`&nbsp;&nbsp;&nbsp;&nbsp;LLMs · RAG · MLOps · distributed backends<br/>
-&nbsp;`Wins`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2× Springer papers · Codeforces 1339 · CodeChef 2★<br/>
-&nbsp;`Open`&nbsp;&nbsp;&nbsp;&nbsp;AI/ML · MLOps · Full-stack roles<br/>
-&nbsp;`Mail`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sumitx368@gmail.com
+🔭 &nbsp; Shipping **production LLM serving** &amp; **agentic trading systems**<br/>
+🧠 &nbsp; Deep in **RAG · MLOps · distributed backends**<br/>
+🏆 &nbsp; **2× Springer** · Codeforces **1339** · CodeChef **2★** · 500+ DSA<br/>
+📫 &nbsp; **sumitx368@gmail.com**
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -85,10 +83,7 @@ class SumitDhankhar:
 
 <div align="center">
 
-<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumit-Pluto&theme=github_dark" alt="profile summary" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumit-Pluto&theme=github_dark" alt="top languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumit-Pluto&theme=github_dark" alt="most commit language" />
+<img width="78%" src="metrics.svg" alt="github metrics" />
 
 <br/><br/>
 
