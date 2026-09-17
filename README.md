@@ -83,12 +83,7 @@ class SumitDhankhar:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumit-Pluto&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FFE500&icon_color=FFE500&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Pluto&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FFE500&text_color=c9d1d9" alt="top languages" />
-
-<br/><br/>
-
-<img width="58%" src="https://streak-stats.demolab.com/?user=Sumit-Pluto&hide_border=true&background=0d1117&stroke=FFE500&ring=FFE500&fire=FF2D2D&currStreakLabel=FFE500&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b93" alt="streak" />
+<img width="62%" src="https://streak-stats.demolab.com/?user=Sumit-Pluto&hide_border=true&background=0d1117&stroke=FFE500&ring=FFE500&fire=FF2D2D&currStreakLabel=FFE500&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b93" alt="streak" />
 
 </div>
 
