@@ -64,6 +64,13 @@ class SumitDhankhar:
 
 </div>
 
+<!-- ══════════════════════ PAC-MAN CONTRIBUTION GRAPH ══════════════════════ -->
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Sumit-Pluto/Sumit-Pluto/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+
+</div>
+
 <!-- ══════════════════════ TECH ARSENAL ══════════════════════ -->
 ## 🛠️ Tech Arsenal
 
@@ -84,13 +91,6 @@ class SumitDhankhar:
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,prometheus,grafana,aws,gcp,linux&theme=dark" /><br/>
 <b>Frontend</b><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-
-</div>
-
-<!-- ══════════════════════ PAC-MAN CONTRIBUTION GRAPH ══════════════════════ -->
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Sumit-Pluto/Sumit-Pluto/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 
 </div>
 
