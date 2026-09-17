@@ -1,0 +1,129 @@
+<!-- ══════════════════════ HERO ══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Quant&descAlignY=60&descSize=15" alt="header" />
+
+<div align="center">
+
+<a href="https://github.com/Sumit-Pluto">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFE500&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+Building+agentic+AI+systems;%E2%9A%A1+Shipping+models+to+production+(K8s+%2B+CI%2FCD+%2B+Kafka);%F0%9F%A7%A0+RAG+%C2%B7+LLMs+%C2%B7+Fine-tuning+%C2%B7+MLOps;%F0%9F%8F%86+Competitive+programmer+(CF+1339+%C2%B7+CC+2%E2%98%85)" alt="typing" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sumit-Pluto&label=PROFILE+VIEWS&color=FFE500&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/Sumit-Pluto?label=FOLLOWERS&style=for-the-badge&labelColor=0d1117&color=FFE500)](https://github.com/Sumit-Pluto?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Sumit-Pluto?label=STARS&style=for-the-badge&labelColor=0d1117&color=FFE500)](https://github.com/Sumit-Pluto)
+
+</div>
+
+<!-- ══════════════════════ WHOAMI ══════════════════════ -->
+## 🤖 `whoami`
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```python
+class SumitDhankhar:
+    role      = "AI / ML Engineer @ Insignia"
+    graduated = "B.Tech AI & ML, May 2026"
+    focus     = ["Agentic AI", "RAG", "MLOps", "Quant"]
+    ships     = "models -> Kubernetes + CI/CD + Kafka"
+    papers    = 2          # Springer
+    cp        = {"codeforces": 1339, "codechef": "2*"}
+    motto     = "clean model, clean system."
+```
+
+- 🦾 I build **LLM / agentic / quant** systems and take them **end-to-end into production**.
+- 🧠 As comfortable with a look-ahead-safe backtest as with an **idempotent Postgres ledger**.
+- 📄 **2× Springer** publications · 🏅 **Codeforces 1339** · **CodeChef 2★** · 500+ DSA.
+- ⚡ Currently deep in **agentic trading systems** and **production LLM serving**.
+- 🤝 Open to AI/ML, MLOps and full-stack roles — let's talk.
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="assets/hero.gif" width="100%" alt="coding" />
+
+<sub><i>↑ swap <code>assets/hero.gif</code> with your own GIF</i></sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════ TECH ARSENAL ══════════════════════ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,bash&theme=dark" /><br/>
+<b>AI / ML · GenAI</b><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-22c55e?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-6366f1?style=flat-square&logo=openai&logoColor=white" /><br/>
+<b>Backend · Data</b><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,mongodb,kafka&theme=dark" /><br/>
+<b>MLOps · Cloud</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,prometheus,grafana,aws,gcp,linux&theme=dark" /><br/>
+<b>Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+
+</div>
+
+<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sumit-Pluto&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FFE500&icon_color=FFE500&text_color=c9d1d9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Pluto&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FFE500&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=Sumit-Pluto&hide_border=true&background=0d1117&stroke=FFE500&ring=FFE500&fire=FF2D2D&currStreakLabel=FFE500&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b93" />
+
+<br/><br/>
+
+<b>🟩 Contribution Heatmap</b><br/><br/>
+<img width="95%" src="https://ghchart.rshah.org/Sumit-Pluto" alt="github contribution heatmap" />
+
+</div>
+
+<!-- ══════════════════════ COMPETITIVE PROGRAMMING ══════════════════════ -->
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1339%20Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sumit_369)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2%E2%98%85%201587-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sumit_3_6_9)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sumit_369/)
+
+</div>
+
+<!-- ══════════════════════ CONTRIBUTION SNAKE ══════════════════════ -->
+## 🐍 Watch the snake eat my contributions
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Sumit-Pluto/Sumit-Pluto/output/github-snake-dark.svg" alt="contribution snake" />
+
+<sub><i>Auto-generated by a GitHub Action. Appears after the workflow's first run — Actions → <b>Generate Snake</b> → Run workflow. (Prefer the Pac-Man sprite? See <code>SETUP.md</code>.)</i></sub>
+
+</div>
+
+<!-- ══════════════════════ CONNECT ══════════════════════ -->
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-dhankhar24/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFE500?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitx368@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit-Pluto)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" alt="footer" />
