@@ -9,7 +9,6 @@ graph**.
 README.md                     ← your profile page
 assets/hero.gif               ← your GIF (already cropped + compressed)
 .github/workflows/pacman.yml  ← generates the Pac-Man contribution graph
-.github/workflows/metrics.yml ← generates metrics.svg (reliable stats — no rate limits)
 ```
 
 ## 1. Create / use the special repo
@@ -39,16 +38,9 @@ The Pac-Man image is **blank until the Action runs once**:
 > misbehaves, the bullet-proof fallback is the snake: swap the workflow to `Platane/snk` and
 > point the image at `github-snake-dark.svg` (ask me and I'll switch it in one step).
 
-## 3b. Turn on the stats (metrics)
-Same drill: **Actions → "Generate Metrics" → Run workflow** once. It commits `metrics.svg`
-into the repo — a **static file that never rate-limits** — which the README points at. This
-replaces the stat cards that were throwing "temporarily rate limited". Runs on a schedule
-after that.
-
-> Seeing broken images in **Brave** but fine in another browser? Brave Shields / ad-blockers
-> block third-party image services (shields.io, komarev, skillicons). Your profile renders
-> fine for everyone else, and the self-committed `metrics.svg` + Pac-Man SVGs aren't affected
-> (they're GitHub-hosted).
+> **Seeing broken images in Brave but fine in another browser?** Brave Shields / ad-blockers
+> block third-party image services (shields.io, komarev, skillicons, the stat cards). Your
+> profile renders fine for everyone else — it's a viewer-side block, not a real error.
 
 ## 4. Make it yours
 - **GIF:** replace `assets/hero.gif` anytime (keep it < ~5 MB so GitHub autoplays it — if you
@@ -66,12 +58,11 @@ after that.
 | Pac-Man graph (via Action) | |
 
 ## Notes
-- **Stats** now come from `lowlighter/metrics` — a committed `metrics.svg` that can't rate-limit.
-- **How fresh are the numbers?** `metrics.svg` refreshes **hourly** and the Pac-Man graph every
-  **3 hours** (Actions on a public repo = free). The render-time cards (streak, profile views)
-  auto-update on GitHub's image-cache cycle (a few hours), so a count like contributions can lag
-  briefly before catching up. Also, different tools count "contributions" slightly differently,
-  so they won't always match GitHub's headline number exactly.
+- **Stats auto-update, but not in real time.** The stats/streak/views cards are render-time
+  services, cached by GitHub's image proxy (camo) for a few hours — so a count like contributions
+  refreshes on its own, just with a lag before it catches up. No stat is truly real-time on a
+  GitHub README (platform limitation, not a config). Different tools also count "contributions"
+  slightly differently, so they won't always match GitHub's headline number exactly.
 - **A skill icon missing?** `skillicons.dev` just skips unknown keys — no broken image.
 
 Your **portfolio repo** README also shows this same Pac-Man graph (it points at this repo's

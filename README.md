@@ -83,7 +83,8 @@ class SumitDhankhar:
 
 <div align="center">
 
-<img width="78%" src="metrics.svg" alt="github metrics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumit-Pluto&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FFE500&icon_color=FFE500&text_color=c9d1d9" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Pluto&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FFE500&text_color=c9d1d9" alt="top languages" />
 
 <br/><br/>
 
