@@ -46,6 +46,12 @@ class SumitDhankhar:
 🏆 &nbsp; **2× Springer** · Codeforces **1339** · CodeChef **2★** · 500+ DSA<br/>
 📫 &nbsp; **sumitx368@gmail.com**
 
+<br/>
+
+<a href="https://portfolio-website-sam-2026.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FFE500?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
+</a>
+
 </td>
 <td width="42%" valign="top" align="center">
 
@@ -100,7 +106,7 @@ class SumitDhankhar:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-dhankhar24/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFE500?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFE500?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-website-sam-2026.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitx368@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit-Pluto)
 
