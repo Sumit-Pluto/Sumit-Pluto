@@ -1,5 +1,5 @@
 <!-- ══════════════════════ HERO ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Backend%20Systems&descAlignY=60&descSize=15" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:00b4d8&height=200&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Backend%20Systems&descAlignY=60&descSize=15" alt="header" />
 
 <div align="center">
 
@@ -48,9 +48,18 @@ class SumitDhankhar:
 
 <br/>
 
-<a href="https://portfolio-website-sam-2026.vercel.app/" target="_blank">
+<table width="100%"><tr>
+<td align="left">
+<a href="https://sumit-dhankhar-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FFE500?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
 </a>
+</td>
+<td align="right">
+<a href="https://drive.google.com/drive/folders/1Hp7iG9TpebDSffXb6pJWrSU04KbC9SM-?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20See%20My%20Resume-0b3d91?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" />
+</a>
+</td>
+</tr></table>
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -106,10 +115,10 @@ class SumitDhankhar:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-dhankhar24/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFE500?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-website-sam-2026.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFE500?style=for-the-badge&logo=vercel&logoColor=black)](https://sumit-dhankhar-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitx368@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit-Pluto)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0b3d91&height=100&section=footer" alt="footer" />
