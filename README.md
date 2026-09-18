@@ -1,5 +1,5 @@
 <!-- ══════════════════════ HERO ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:00b4d8&height=200&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Backend%20Systems&descAlignY=60&descSize=15" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e5383b,100:0b3d91&height=220&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Backend%20Systems&descAlignY=60&descSize=15" alt="header" />
 
 <div align="center">
 
@@ -121,4 +121,4 @@ class SumitDhankhar:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0b3d91&height=100&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:e5383b&height=120&section=footer" alt="footer" />
