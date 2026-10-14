@@ -1,15 +1,15 @@
 <!-- ══════════════════════ HERO ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e5383b,100:0b3d91&height=220&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps%20//%20Backend%20Systems&descAlignY=60&descSize=15" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e5383b,100:0b3d91&height=220&section=header&text=SUMIT%20DHANKHAR&fontSize=46&fontColor=FFE500&animation=fadeIn&font[...]
 
 <div align="center">
 
 <a href="https://github.com/Sumit-Pluto">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFE500&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+Building+agentic+AI+systems;%E2%9A%A1+Shipping+models+to+production+(K8s+%2B+CI%2FCD+%2B+Kafka);%F0%9F%A7%A0+RAG+%C2%B7+LLMs+%C2%B7+Fine-tuning+%C2%B7+MLOps;%F0%9F%9B%A0%EF%B8%8F+Scalable+backend+%26+distributed+systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFE500&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+Building+agentic+AI+systems;%E[...]
 </a>
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sumit-Pluto.Sumit-Pluto&label=PROFILE+VIEWS&color=1a1b27&style=for-the-badge" alt="Profile views" />
+<img src="./assets/views-badge.svg" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Sumit-Pluto?label=FOLLOWERS&style=for-the-badge&labelColor=FFE500&color=1a1b27" alt="followers" />
 <img src="https://img.shields.io/github/stars/Sumit-Pluto?label=STARS&style=for-the-badge&labelColor=FFE500&color=1a1b27" alt="stars" />
 
@@ -75,7 +75,7 @@ class SumitDhankhar:
 
 <div align="center">
 
-<img width="62%" src="https://streak-stats.demolab.com/?user=Sumit-Pluto&hide_border=true&background=0d1117&stroke=FFE500&ring=FFE500&fire=FF2D2D&currStreakLabel=FFE500&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b93" alt="streak" />
+<img width="62%" src="https://streak-stats.demolab.com/?user=Sumit-Pluto&hide_border=true&background=0d1117&stroke=FFE500&ring=FFE500&fire=FF2D2D&currStreakLabel=FFE500&sideLabels=c9d1d9&currStrea[...]
 
 </div>
 
