@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="28" role="img" aria-label="PROFILE VIEWS: 0">
+  <title>PROFILE VIEWS: 0</title>
+  <rect width="180" height="28" rx="4" fill="#1a1b27"/>
+  <rect width="108" height="28" rx="4" fill="#FFE500"/>
+  <rect x="108" width="72" height="28" rx="4" fill="#1a1b27"/>
+  <text x="54" y="18" text-anchor="middle" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" font-weight="700" fill="#1a1b27">PROFILE VIEWS</text>
+  <text x="144" y="18" text-anchor="middle" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" font-weight="700" fill="#ffffff">0</text>
+</svg>
