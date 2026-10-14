@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sumit-Pluto&label=PROFILE+VIEWS&color=1a1b27&style=for-the-badge" alt="views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sumit-Pluto.Sumit-Pluto&label=PROFILE+VIEWS&color=1a1b27&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Sumit-Pluto?label=FOLLOWERS&style=for-the-badge&labelColor=FFE500&color=1a1b27" alt="followers" />
 <img src="https://img.shields.io/github/stars/Sumit-Pluto?label=STARS&style=for-the-badge&labelColor=FFE500&color=1a1b27" alt="stars" />
 
